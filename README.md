@@ -1,1 +1,1 @@
-# Proper example of Dara Binding Adapter 
+# A proper example of Dara Binding Adapter 
